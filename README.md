@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" align="center" src="https://blogs.biomedcentral.com/on-physicalsciences/wp-content/uploads/sites/14/2019/02/data-1-620x342.jpg">
 
 
 # Diego Veiga
