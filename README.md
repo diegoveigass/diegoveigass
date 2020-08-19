@@ -1,4 +1,6 @@
-<img width="auto" align="center" src="https://blogs.biomedcentral.com/on-physicalsciences/wp-content/uploads/sites/14/2019/02/data-1-620x342.jpg">
+<p align="center">
+ <img src="https://blogs.biomedcentral.com/on-physicalsciences/wp-content/uploads/sites/14/2019/02/data-1-620x342.jpg" />
+</p>
 
 
 # Diego Veiga
